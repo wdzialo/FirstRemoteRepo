@@ -1,4 +1,5 @@
-chleb 3,5
+chleb 3,50
 jajka 8,00
 masło 5,50
+ryż   3,20
 
